@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="penas" size="1.000000 0.963663" />
+    <ImageTarget name="ninho" size="1.000000 0.760563" />
+    <ImageTarget name="manga" size="1.000000 0.863287" />
+    <ImageTarget name="galho" size="1.000000 1.000000" />
+    <ImageTarget name="folhas" size="1.000000 1.092913" />
+    <ImageTarget name="arvore" size="1.000000 1.149750" />
+    <ImageTarget name="ararajuba" size="1.000000 1.019753" />
+  </Tracking>
+</QCARConfig>
